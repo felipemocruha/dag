@@ -1,3 +1,3 @@
-module github.com/silas/dag
+module github.com/felipemocruha/dag
 
 go 1.12
